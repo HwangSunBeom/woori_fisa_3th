@@ -1,0 +1,17 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.class-selector {
+    font-size: 30px;
+    border: 2px dashed #222;
+}
+
+#id-selector {
+    font-size: 30px;
+    border: 2px dashed #666;
+}
